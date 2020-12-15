@@ -1,0 +1,57 @@
+body{
+  background-image: url(tic.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+td{
+  height: 150px;
+  width: 150px;
+  text-align: center;
+  border: 5px solid black;
+  font-size: 100px;
+}
+
+#one{
+  background-color: yellow;
+}
+#two{
+  background-color: red;
+
+}
+#three{
+  background-color: pink;
+}
+
+#four{
+    background-color: purple;
+
+  }
+#five{
+  background-color: #00D2FF;
+}
+#six{
+  background-color: #00FFDC
+}
+#seven{
+  background-color: #B9FF00;
+}
+#eight{
+  background-color: #6400FF;
+}
+#nine{
+  background-color: #B4CC00;
+}
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+
+h1 {
+  background-color: black;
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
